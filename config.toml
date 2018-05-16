@@ -2,6 +2,6 @@ baseURL = "http://www.woke.guru/"
 languageCode = "en-us"
 title = "woke"
 author="WG2"
-
+theme="liquorice"
 [params]
     author = "WG"
