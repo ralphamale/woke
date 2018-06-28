@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
-- posts/forestry---a-good-idea-.md
+- content/posts/test--is-the-new-theme-working-.md
+- content/posts/forestry---a-good-idea-.md
