@@ -19,4 +19,5 @@ fields:
   default: true
 pages:
 - content/posts/test--is-the-new-theme-working-.md
+- content/posts/bring.md
 - content/posts/forestry---a-good-idea-.md
